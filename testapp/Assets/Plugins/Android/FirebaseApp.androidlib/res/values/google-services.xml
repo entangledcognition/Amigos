@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">972059177190</string>
+  <string name="google_storage_bucket" translatable="false">ec-app-amigos.appspot.com</string>
+  <string name="project_id" translatable="false">ec-app-amigos</string>
+  <string name="google_api_key" translatable="false">AIzaSyBM4rQoAdClDdBkdvhHsRta3ukmjIlEDZM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBM4rQoAdClDdBkdvhHsRta3ukmjIlEDZM</string>
+  <string name="google_app_id" translatable="false">1:972059177190:android:23bd91ab5493aac5f9cb27</string>
+  <string name="default_android_client_id" translatable="false">972059177190-2ln3r2cus32pvm8fk1anijmdvvsn1bhk.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">972059177190-0flurdrgovb6le2emt674nkuqh8po5ai.apps.googleusercontent.com</string>
+</resources>
