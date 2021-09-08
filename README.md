@@ -9,4 +9,5 @@ You can follow below link to download those assets if you face any compiler issu
 https://drive.google.com/drive/folders/1O0nGU2EonuKV7crDUIgBVmw7G0QA_jSN?usp=sharing
 
 You need to place it in below folder location
+
 Amigos/testapp/Assets/Firebase/Plugins
